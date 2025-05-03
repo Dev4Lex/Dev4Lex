@@ -4,7 +4,7 @@
 ### _I'm — QA Engineer_
 
 <p>
-I have more than 4 years of experience in UI/API/Mobile testing. I regularly study new technologies and testing tools.
+I have more than 5 years of experience in UI/API/Mobile testing. I regularly study new technologies and testing tools.
  </p>
 <p align="left">
 
@@ -34,10 +34,8 @@ I have more than 4 years of experience in UI/API/Mobile testing. I regularly stu
 		<td><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></td>
 	</tr>
 	<tr>
-		<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></td>
-		<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></td>
-		<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></td>
-		<td><img width="50" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="Lombok" title="Lombok"/></td>
+		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Java" title="Python"/></td>
+		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png" alt="Maven" title="pytest"/></td>
 		<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="RabbitMQ" title="RabbitMQ"/></td>
 		<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></td>
 		<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle"/></td>
@@ -93,13 +91,11 @@ Here are some ideas to get you started:
 - Implementation of QA and QC processes from scratch
 - Development of frameworks for test automation on Web, REST API
 - Basic knowledge of automated test development patterns
-- Programming skills: Java 
-- REST API testing: REST Assured, Retrofit
-- UI testing: Selenium, Selenide, Playwright
-- CI: Jenkins / GitLab
-- Parallel testing: Selenoid
-- Project builders: Maven / Gradle
-- Test runners: JUnit 5 / TestNG
+- Programming skills: Python 
+- REST API testing: Requests
+- UI testing: Selenium, Playwright
+- CI/CD: Jenkins, GitHub Actions, GitLab CI, Docker, Kubernetes
+- Test runners: Pytest
 - TMS: TestRail / Zephyr for Jira / XRay
 - DBMS: DBeaver / pgAdmin / TablePlus
 - Functional, regression, integration, UX testing skills
