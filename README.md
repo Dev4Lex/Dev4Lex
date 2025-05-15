@@ -97,6 +97,7 @@ Here are some ideas to get you started:
 - Test runners: Pytest
 - TMS: TestRail / Zephyr for Jira / XRay
 - DBMS: DBeaver / pgAdmin / TablePlus
+- Logs: Grafana / Kibana
 - Functional, regression, integration, UX testing skills
 - System analytics, test design, technical documentation
 - Languages: Russian, English
