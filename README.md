@@ -63,36 +63,14 @@ I have more than 5 years of experience in UI/API/Mobile testing. I regularly stu
 
 
 
-
-<!--
-**Dev4Lex/Dev4Lex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 # 🎓 Skills
 - Deep understanding of software lifecycle and Agile development methodologies (Scrum / Kanban)
 - Implementation of QA and QC processes from scratch
 - Development of frameworks for test automation on Web, REST API
 - Basic knowledge of automated test development patterns
 - Programming skills: Python 
-- REST API testing: Requests
-- UI testing: Selenium, Playwright
+- REST API testing: [Requests](https://github.com/Dev4Lex/LearnQA_PythonAPI)
+- UI testing: [Selenium](https://github.com/Dev4Lex/stepik_automation_course_project), Playwright
 - CI/CD: Jenkins, GitHub Actions, GitLab CI, Docker, Kubernetes
 - Test runners: Pytest
 - TMS: TestRail / Zephyr for Jira / XRay
