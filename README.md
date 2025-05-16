@@ -71,8 +71,8 @@ I have more than 5 years of experience in UI/API/Mobile testing. I regularly stu
 - Programming skills: Python 
 - REST API testing: [Requests](https://github.com/Dev4Lex/LearnQA_PythonAPI)
 - UI testing: [Selenium](https://github.com/Dev4Lex/stepik_automation_course_project), Playwright
-- CI/CD: Jenkins, GitHub Actions, GitLab CI, Docker, Kubernetes
-- Test runners: Pytest
+- CI/CD: Jenkins, GitHub Actions, GitLab CI, [Docker](https://github.com/Dev4Lex/LearnQA_PythonAPI), Kubernetes
+- Test runners: [Pytest](https://github.com/Dev4Lex/stepik_automation_course_project)
 - TMS: TestRail / Zephyr for Jira / XRay
 - DBMS: DBeaver / pgAdmin / TablePlus
 - Logs: Grafana / Kibana
